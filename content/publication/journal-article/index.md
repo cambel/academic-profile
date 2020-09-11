@@ -27,23 +27,25 @@ publication_short: "IROS RA-L 2020"
 abstract: Reinforcement Learning (RL) methods have been proven successful in solving manipulation tasks autonomously. However, RL is still not widely adopted on real robotic systems because working with real hardware entails additional challenges, especially when using rigid position-controlled manipulators. These challenges include the need for a robust controller to avoid undesired behavior, that risk damaging the robot and its environment, and constant supervision from a human operator. The main contributions of this work are, first, we proposed a learning-based force control framework combining RL techniques with traditional force control. Within said control scheme, we implemented two different conventional approaches to achieve force control with position-controlled robots; one is a modified parallel position/force control, and the other is an admittance control. Secondly, we empirically study both control schemes when used as the action space of the RL agent. Thirdly, we developed a fail-safe mechanism for safely training an RL agent on manipulation tasks using a real rigid robot manipulator. The proposed methods are validated both on simulation and a real robot with an UR3 e-series robotic arm.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Code available on request
 
 tags:
-- Source Themes
+- Reinforcement Learning
+- Force Control
+- Peg-in-hole
 featured: true
 
 links:
 - name: "preprint"
   url: "https://arxiv.org/abs/2003.00628"
 url_pdf: https://ieeexplore.ieee.org/document/9145608
-url_code: mailto:cristianbehe@gmail.com
+# url_code: mailto:cristianbehe@gmail.com
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+url_video: hhttps://www.youtube.com/watch?v=4wdIhQxD6cA&t=14s
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

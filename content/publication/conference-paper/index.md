@@ -27,7 +27,9 @@ abstract: Towards the automation of assembly tasks using industrial robot manipu
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Reinforcement Learning
+- Grasping
+- Incremental Learning
 featured: true
 
 # links:
@@ -44,10 +46,10 @@ url_code: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'System overview'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'System overview'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

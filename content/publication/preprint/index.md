@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Variable Compliance Control for Robotic Peg-in-Hole Assembly: A Deep Reinforcement Learning Approach"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2020-08-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,52 +18,56 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Industrial robot manipulators are playing a more significant role in modern manufacturing industries. Though peg-in-hole assembly is a common industrial task which has been extensively researched, safely solving complex high precision assembly in an unstructured environment remains an open problem.
+Reinforcement Learning (RL) methods have been proven successful in solving manipulation tasks autonomously. However, RL is still not widely adopted on real robotic systems because working with real hardware entails additional challenges, especially when using position-controlled manipulators. 
+The main contribution of this work is a learning based method to solve peg-in-hole tasks with position uncertainty of the hole. We proposed the use of an off-policy model-free reinforcement learning method and bootstrap the training speed by using several transfer learning techniques (sim2real) and domain randomization. Our proposed learning framework for position-controlled robots was extensively evaluated on contact-rich insertion tasks on a variety of environments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Code available on request
 
 tags:
-- Source Themes
-featured: false
+- Robot Manipulation
+- Compliance Control
+- Reinforcement Learning
+featured: True
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://arxiv.org/abs/2008.10224
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+url_video: https://www.youtube.com/watch?v=v4fREpMk7kU&t=7s
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

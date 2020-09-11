@@ -1,10 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Learning to Grasp with Primitive Shaped Object Policies"
 authors:
 - admin
+- Damien Petit
+- Ixchel G Ramirez-Alpizar
 - Kensuke Harada
 date: "2019-01-16T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/SII.2019.8700399"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-16T00:00:00Z"
@@ -28,17 +30,17 @@ tags:
 - Source Themes
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: https://ieeexplore.ieee.org/document/8700399
 url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

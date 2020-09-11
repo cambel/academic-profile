@@ -15,7 +15,7 @@ role: PhD Student Robotics & Artificial Intelligence
 # Organizations/Affiliations
 organizations:
 - name: Osaka University
-  url: ""
+  url: "https://www.roboticmanipulation.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reinforcement learning, robot manipulation and software development.
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: Osaka University
     year: 2019
   - course: MEng in Intelligent Systems
     institution: Osaka University
@@ -51,6 +51,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=xfCLuzEAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1134-009X
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Cristian_Beltran
 - icon: github
   icon_pack: fab
   link: https://github.com/cambel

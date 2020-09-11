@@ -18,9 +18,9 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Industrial robot manipulators are playing a more significant role in modern manufacturing industries. Though peg-in-hole assembly is a common industrial task which has been extensively researched, safely solving complex high precision assembly in an unstructured environment remains an open problem.
+abstract: "Industrial robot manipulators are playing a more significant role in modern manufacturing industries. Though peg-in-hole assembly is a common industrial task which has been extensively researched, safely solving complex high precision assembly in an unstructured environment remains an open problem.
 Reinforcement Learning (RL) methods have been proven successful in solving manipulation tasks autonomously. However, RL is still not widely adopted on real robotic systems because working with real hardware entails additional challenges, especially when using position-controlled manipulators. 
-The main contribution of this work is a learning based method to solve peg-in-hole tasks with position uncertainty of the hole. We proposed the use of an off-policy model-free reinforcement learning method and bootstrap the training speed by using several transfer learning techniques (sim2real) and domain randomization. Our proposed learning framework for position-controlled robots was extensively evaluated on contact-rich insertion tasks on a variety of environments.
+The main contribution of this work is a learning based method to solve peg-in-hole tasks with position uncertainty of the hole. We proposed the use of an off-policy model-free reinforcement learning method and bootstrap the training speed by using several transfer learning techniques (sim2real) and domain randomization. Our proposed learning framework for position-controlled robots was extensively evaluated on contact-rich insertion tasks on a variety of environments."
 
 # Summary. An optional shortened abstract.
 summary: Code available on request

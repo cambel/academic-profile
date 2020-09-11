@@ -57,6 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Cristian_Beltran
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/cristianbehe/?locale=en_US
 - icon: github
   icon_pack: fab
   link: https://github.com/cambel

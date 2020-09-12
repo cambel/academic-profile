@@ -18,26 +18,25 @@ publishDate: "2018-12-18T00:00:00Z"
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Mining Intelligence and Knowledge Exploration"
-publication_short: "MIKE 2018"
+publication: "特願2019-222997"
+publication_short: ""
 
-abstract: "This work deals with a novel intelligent visual assisted picking task approach, for industrial manipulator robot. Intelligent searching object algorithm, around the working area, by RANSAC approach is proposed. After that, the image analysis uses the Sobel operator, to detect the objects configurations; and finally, the motion planning approach by Screw theory on SO(3), allows to pick up the selected object to move it, to a target place. Results and whole approach validation are discussed."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "A novel intelligent visual assisted picking task approach, for industrial manipulator robot"
+# summary: "A novel intelligent visual assisted picking task approach, for industrial manipulator robot"
 
 tags:
-- Artificial Intelligence
-- Autonomous Picking
-- Artificial Vision
+- Reinforcement Learning
+- Force Control
 featured: false
 
-url_pdf: https://www.researchgate.net/publication/329721744_Industry_40_Intelligent_Visual_Assisted_Picking_Approach_6th_International_Conference_MIKE_2018_Cluj-Napoca_Romania_December_20-22_2018_Proceedings 
+# url_pdf: '' 
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: https://link.springer.com/chapter/10.1007%2F978-3-030-05918-7_18
+# url_source: ''
 # url_video: ''
 
 # Featured image

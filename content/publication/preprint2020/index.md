@@ -29,7 +29,7 @@ tags:
 - Robot Manipulation
 - Compliance Control
 - Reinforcement Learning
-featured: True
+featured: false
 
 # links:
 # - name: Custom Link

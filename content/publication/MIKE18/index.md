@@ -1,15 +1,16 @@
 ---
-title: "Learning to Grasp with Primitive Shaped Object Policies"
+title: "Industry 4.0, Intelligent Visual Assisted Picking Approach"
 authors:
+- Mario Arbulu
+- Paola Mateus
+- Manuel Wagner
 - admin
-- Damien Petit
-- Ixchel G Ramirez-Alpizar
 - Kensuke Harada
-date: "2019-01-16T00:00:00Z"
-doi: "https://doi.org/10.1109/SII.2019.8700399"
+date: "2018-12-18T00:00:00Z"
+doi: https://doi.org/10.1007/978-3-030-05918-7_18
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-16T00:00:00Z"
+publishDate: "2018-12-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,31 +19,26 @@ publishDate: "2019-01-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2019 IEEE/SICE International Symposium on System Integration*
-publication_short: In *SII2019*
+publication: "特願2019-222997"
+publication_short: ""
 
-abstract: Towards the automation of assembly tasks using industrial robot manipulators, improving the robotic grasping is essential. In this paper, we employed a reinforcement learning method based on the policy search algorithm, call Guided Policy Search, to learn policies for the grasping problem. The goal was to evaluate if policies trained solely using sets of primitive shaped objects, can still achieve the task of grasping objects of more complex shapes. The results show that even using simple shaped objects; the method can learn policies that generalize to more complex shapes. Additionally, a robustness test was conducted to show that the visual component of the policy helps to guide the system when there is an error in the estimation of the target object pose.
+abstract: ""
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: A novel intelligent visual assisted picking task approach, for industrial manipulator robot
 
 tags:
 - Reinforcement Learning
-- Grasping
-- Incremental Learning
-featured: true
+- Force Control
+featured: false
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/document/8700399
-url_code: '#'
-# url_dataset: '#'
-# url_poster: '#'
+# url_pdf: '' 
+# url_dataset: ''
+# url_poster: ''
 # url_project: ''
 # url_slides: ''
-# url_source: '#'
-# url_video: '#'
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,8 +52,7 @@ url_code: '#'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -69,11 +64,10 @@ url_code: '#'
 
 <!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}} -->
+{{% /alert %}}
 
-<!-- {{% alert note %}}
+{{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
-

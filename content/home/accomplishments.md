@@ -37,14 +37,34 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Offered by University of Maryland, College Park, Vanderbilt University"
   
-# [[item]]
-#   organization = "DataCamp"
-#   organization_url = "https://www.datacamp.com"
-#   title = "Object-Oriented Programming in R: S3 and R6 Course"
-#   url = ""
-#   certificate_url = "https://www.datacamp.com"
-#   date_start = "2017-07-01"
-#   date_end = "2017-12-21"
-#   description = ""
+[[item]]
+  organization = "The 26th Annual Conference of the Robotics Society of Japan"
+  organization_url = "https://www.rsj.or.jp/en/"
+  title = "Finalist of International Session Best Paper Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-06"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IEEE/SICE International Symposium on System Integrations (SII)"
+  organization_url = "https://www.rsj.or.jp/en/"
+  title = "Best Paper Award Finalist"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-01-16"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "第20回計測自動制御学会システムインテグレーション部門講演会 (SI2019)"
+  organization_url = "https://sice-si.org/"
+  title = "Best Oral Presentation (優秀講演賞)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-12-19"
+  date_end = ""
+  description = ""
 
 +++

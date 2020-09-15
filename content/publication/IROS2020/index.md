@@ -45,7 +45,7 @@ url_pdf: https://ieeexplore.ieee.org/document/9145608
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-url_video: hhttps://www.youtube.com/watch?v=4wdIhQxD6cA&t=14s
+url_video: https://www.youtube.com/watch?v=4wdIhQxD6cA&t=14s
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -22,12 +22,13 @@ bio: My research interests include reinforcement learning, robot manipulation an
 
 interests:
 - Artificial Intelligence
-- Robot Manipulation
 - Reinforcement Learning
+- Robot Manipulation
+- Artificial Vision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD Student in Artificial Intelligence
     institution: Osaka University
     year: 2019
   - course: MEng in Intelligent Systems

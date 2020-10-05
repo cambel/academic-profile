@@ -64,7 +64,7 @@ url_video: https://www.youtube.com/watch?v=v4fREpMk7kU&t=7s
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-<!-- ---
+---
 
 # {{% alert note %}}
 # Click the *Slides* button above to demo Academic's Markdown slides feature.

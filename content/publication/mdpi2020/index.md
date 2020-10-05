@@ -66,8 +66,8 @@ url_video: https://www.youtube.com/watch?v=v4fREpMk7kU&t=7s
 # slides: example
 ---
 
-# {{% alert note %}}
+<!-- # {{% alert note %}}
 # Click the *Slides* button above to demo Academic's Markdown slides feature.
 # {{% /alert %}}
 
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --> -->

@@ -2,8 +2,8 @@
 title: "Variable Compliance Control for Robotic Peg-in-Hole Assembly: A Deep Reinforcement Learning Approach"
 authors:
 - admin
-date: "2020-08-15T00:00:00Z"
-doi: ""
+date: "2020-10-02T00:00:00Z"
+doi: "https://doi.org/10.3390/app10196923"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-01T00:00:00Z"
@@ -12,11 +12,11 @@ publishDate: "2020-08-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Applied Science"
+publication_short: "Appl. Sci."
 
 abstract: "Industrial robot manipulators are playing a more significant role in modern manufacturing industries. Though peg-in-hole assembly is a common industrial task which has been extensively researched, safely solving complex high precision assembly in an unstructured environment remains an open problem.
 Reinforcement Learning (RL) methods have been proven successful in solving manipulation tasks autonomously. However, RL is still not widely adopted on real robotic systems because working with real hardware entails additional challenges, especially when using position-controlled manipulators. 
@@ -29,12 +29,12 @@ tags:
 - Robot Manipulation
 - Compliance Control
 - Reinforcement Learning
-featured: false
+featured: true
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/abs/2008.10224
+url_pdf: https://www.mdpi.com/2076-3417/10/19/6923
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

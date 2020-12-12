@@ -22,6 +22,6 @@ url_slides: ""
 url_video: ""
 
 ---
-![gif](./training-baxter.png)
-![gif](./trained-baxter.png)
+![gif](./training-baxter.gif)
+![gif](./trained-baxter.gif)
 

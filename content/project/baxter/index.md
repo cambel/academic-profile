@@ -12,7 +12,7 @@ date: "2018-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ""
+  caption: "Proposed Framework"
   focal_point: ""
 
 links:
@@ -22,6 +22,15 @@ url_slides: ""
 url_video: ""
 
 ---
+Training Baxter to grasp objects based on vision feedback and joint-torque control.
+
+**Reinforcement Learning algorithm:** [Guided Policy Search](https://github.com/cbfinn/gps).
+
+The environment is simulated using Gazebo/ROS Kinetic.
+
+## Training session
 ![gif](./training-baxter.gif)
+
+## Learned policy
 ![gif](./trained-baxter.gif)
 

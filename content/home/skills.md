@@ -42,7 +42,13 @@ subtitle = ""
   icon = "ros"
   icon_pack = "custom"
   name = "Robot Operating System"
-  description = "100%"  
+  description = "100%"
+
+[[feature]]
+  icon = "ai"
+  icon_pack = "custom"
+  name = "Machine Learning"
+  description = "80%"  
 
 [[feature]]
   icon = "docker"

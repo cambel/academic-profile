@@ -21,12 +21,6 @@ subtitle = ""
   description = "100%"
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = "70%"
-
-[[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
@@ -39,10 +33,34 @@ subtitle = ""
   description = "50%"
 
 [[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Robot Operating System (ROS)"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "70%"
+
+[[feature]]
+  icon = "ros"
+  icon_pack = "custom"
+  name = "Robot Operating System"
   description = "100%"  
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "80%"  
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "80%" 
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL Databases"
+  description = "80%"  
 
 # Uncomment to use emoji icons.
 # [[feature]]

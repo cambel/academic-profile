@@ -29,8 +29,10 @@ Training Baxter to grasp objects based on vision feedback and joint-torque contr
 The environment is simulated using Gazebo/ROS Kinetic.
 
 ## Training session
-![gif](./training-baxter.gif)
+![gif](./sim-train.gif)
 
-## Learned policy
-![gif](./trained-baxter.gif)
+## Refining on real robot
+![gif](./real-train.gif)
+
+
 

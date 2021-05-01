@@ -2,6 +2,9 @@
 title: "Variable Compliance Control for Robotic Peg-in-Hole Assembly: A Deep Reinforcement Learning Approach"
 authors:
 - admin
+- Damien Petit
+- Ixchel Georgina Ramirez-Alpizar
+- Kensuke Harada
 date: "2020-10-02T00:00:00Z"
 doi: "https://doi.org/10.3390/app10196923"
 

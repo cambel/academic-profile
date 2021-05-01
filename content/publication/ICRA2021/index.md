@@ -31,7 +31,7 @@ tags:
 - Imitation Learning
 - Reinforcement Learning
 - Force Control
-featured: true
+featured: false
 
 links:
 - name: "preprint"
